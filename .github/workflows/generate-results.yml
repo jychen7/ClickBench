@@ -3,6 +3,7 @@ on:
   push:
     branches:    
       - main
+      - clickbench-98-github-action-test 
 
 permissions:
   contents: write
